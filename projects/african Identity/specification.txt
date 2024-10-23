@@ -1,0 +1,16 @@
+problem: african traditions, cultures, customs and languages are slowly fading, therefore we are preserving them by an easily accessable african library
+
+
+specs:
+
+indigenous library
+- lang dictionaries
+- tales around the fire
+- riddles
+- proverbs & idioms
+- prohibits/ the forbidden
+- history
+
+
+shop
+
